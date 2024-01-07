@@ -1,0 +1,156 @@
+
+
+#af1{
+    background-size: cover;
+    background-image:url(/cool.jpg) ;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    flex-wrap: wrap;
+    /* site k ekdum centre pe nai aa raha hai!! */
+}
+
+.af2{
+    background-color: rgb(170, 183, 196);
+    color: black;
+}
+.af3{
+    color: white;
+}
+.af4{
+    color: white;
+    
+}
+#af5{
+    background-size: cover;
+    background-image: url(/signup.jpg);
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    /* site k ekdum centre pe nai aa raha hai!! */
+    
+}
+.af6{
+    background-color: rgb(202, 202, 202);
+}
+.af7{
+    background-color: rgb(216, 112, 147);
+    border-radius: 30%;
+}
+#af8{
+    background-size: cover;
+    background-image: url(/prsing.jpg);
+}
+#af9{
+    color: white;
+    font-size: xx-large;
+    display: flex;
+    justify-content: center;
+    /* site k ekdum centre pe nai aa raha hai!! */
+}
+#af10{
+    color: rgb(230, 221, 221);
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    /* site k ekdum centre pe nai aa raha hai!! */
+
+}
+#af11{
+    color: crimson;
+    display: flex;
+    justify-content: center;
+}
+
+#sh1{
+    background-size: cover;
+    background-image: url(/webindex.jpg);
+    /* display: flex; */
+    /* justify-content: center */
+}
+table,th,td{
+    border-collapse: collapse;
+    border: 2px solid black;
+}
+.sh2{
+    display: flex;
+    justify-content: center;
+    font-size: xx-large;
+}
+b{
+    /* justify-content: center; */
+}
+#sh3{
+    display: flex;
+    justify-content: center;
+}
+#sh4{
+    display: flex;
+    justify-content: center;
+    
+}
+.sh5{
+    background-color: blueviolet;
+    border-radius: 25%;
+}
+.sh7{
+    background-size: cover;
+    background-image: url(/site.jpg);
+    display: flex;
+    justify-content: center;
+    /* top se centre pee aa ra hai lekin page k centre pe nai aa ra hai */
+}
+/* #sh6{
+    is ko nikal ke direct sh7 daal dia hu class bana k ,id hata dia hu
+
+    display: flex;
+    justify-content: center;
+    top se centre pee aa ra hai lekin page k centre pe nai aa ra hai
+    
+} */
+#sh6{
+    /* display: flex;
+    justify-content: center; */
+    display: flex;
+    justify-content: center;
+
+}
+#sh9{
+    background-size: 25%;
+    background-image: url(/thanky.jpg) ;
+}
+#kh1{
+    background-size: cover;
+    background-image: url(/persinf.jpg);
+}
+#kh2{
+    display: flex;
+    justify-content: center;
+    /* align-self: center; */
+}
+.kh3{
+    color: gold;
+}
+input{
+    background-color: lemonchiffon;
+}
+.kh4{
+    border-radius: 30%;
+}#at1{
+    background-size: cover;
+    background-image: url(/signup.jpg)
+
+}#at2{
+    display: flex;
+    justify-content: center;
+}#at3{
+    color: aliceblue;
+}#at4{
+    border-radius: 30%;
+    background-color: rgb(216,112,147);
+}#at5{
+    color: aliceblue;
+    background-color: black;
+    border-radius: 25%;
+}
+
